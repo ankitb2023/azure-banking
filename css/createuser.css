@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&family=Oswald:wght@500&family=Permanent+Marker&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navigation{
+    background-color: #ff0707!important;
+    
+}
+.navigation .navbar-brand{
+    font-size: 1.8rem;
+    padding-left: 40px;
+    font-family: 'Permanent Marker', cursive;
+    letter-spacing: 0.8px;
+    word-spacing: 1px;
+    
+    color: aliceblue!important;    
+}
+.navigation .navbar-brand:hover{
+    color:black!important;
+}
+.nav-link{
+    font-weight: bold;
+    font-size: 15px; 
+    color: antiquewhite!important; 
+}
+.btn{
+    background-color: #ff0707 !important;
+    color: white!important;
+}
+.btn:hover{
+    background-color: #078fff !important;
+    color: white!important;
+}
+
