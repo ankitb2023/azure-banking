@@ -28,11 +28,11 @@ After that connecting the table (Customers and Transactions)Table names with git
 ## Screenshots 📸
 ### Home page -   
 ![](images/Screenshot%20(31).png)
-### About Section -
+### USer Section -
 ![](images/Screenshot%20(34).png)
-### Skills Section -
+### Transaction Section -
 ![](images/Screenshot%20(33).png)
-### Experience Section -
+### Transaction History Section -
 ![](images/Screenshot%20(35).png)
 ### Contact Page -
 ![](images/Screenshot%20(36).png)
@@ -47,7 +47,7 @@ After that connecting the table (Customers and Transactions)Table names with git
 - Bootstrap
 - JavaScript
 - PHP
-- JQuery
+- SQL
 - Github
 
 
