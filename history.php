@@ -86,7 +86,7 @@
 
             include 'connectdb.php';
 
-            $sql ="select * from transaction";
+            $sql ="select * from transactions";
 
             $query =mysqli_query($conn, $sql);
 

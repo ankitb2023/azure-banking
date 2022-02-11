@@ -62,7 +62,7 @@ if(isset($_POST['submit']))
                 
                 $sender = $sql1['name'];
                 $receiver = $sql2['name'];
-                $sql = "INSERT INTO transaction(`sender`, `receiver`, `balance`) VALUES ('$sender','$receiver','$amount')";
+                $sql = "INSERT INTO transactions(`sender`, `receiver`, `balance`) VALUES ('$sender','$receiver','$amount')";
                 $query=mysqli_query($conn,$sql);
 
                 if($query){
